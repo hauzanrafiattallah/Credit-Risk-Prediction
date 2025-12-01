@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 streamlit
-scikit-learn=1.6.1
+scikit-learn==1.6.1
 pandas
 requests
 pydantic
